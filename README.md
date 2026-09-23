@@ -16,3 +16,8 @@
 - [Bedrock "architecture"](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
 - [Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/)
 - [Strands AgentCore Memory Examples](https://github.com/aws/bedrock-agentcore-sdk-python/tree/main/src/bedrock_agentcore/memory/integrations/strands)
+- [Agentcore Built-in Evaluator Prompt templates](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
+(FuzzyAI, claims to jailbreak any model with a single command)[https://github.com/cyberark/fuzzyai]
+- [MCP registry](https://github.com/modelcontextprotocol/registry), from the MCP maintainers
+- [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/), end-to-end use case for the managed registry
+- [Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/)
