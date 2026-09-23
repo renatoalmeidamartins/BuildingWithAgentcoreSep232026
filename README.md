@@ -26,3 +26,7 @@
 - [Effective context engineering for AI agents \ Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [Strands agents tools](https://github.com/strands-agents/tools)
 - [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/)
+-[Get started with Amazon Bedrock AgentCore Runtime direct code deployment](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-get-started-code-deploy.html)
+- Agentcore CLIs
+    - [Agentcore CLI](https://github.com/aws/agentcore-cli)
+    - **DEPRECATED**[Agentcore starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
