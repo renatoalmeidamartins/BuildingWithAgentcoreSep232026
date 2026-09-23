@@ -25,3 +25,4 @@
 - [Building a LangGraph Agent from Scratch ](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/)
 - [Effective context engineering for AI agents \ Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [Strands agents tools](https://github.com/strands-agents/tools)
+- [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/)
