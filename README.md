@@ -21,3 +21,7 @@
 - [MCP registry](https://github.com/modelcontextprotocol/registry), from the MCP maintainers
 - [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/), end-to-end use case for the managed registry
 - [Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/)
+- [CrewAI quick start](https://docs.crewai.com/v1.15.21/en/quickstart)
+- [Building a LangGraph Agent from Scratch ](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/)
+- [Effective context engineering for AI agents \ Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- [Strands agents tools](https://github.com/strands-agents/tools)
