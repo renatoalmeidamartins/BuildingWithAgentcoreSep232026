@@ -4,6 +4,14 @@
 - [Courseware and labs](https://us-east-1.student.classrooms.aws.training/class/ilt%234dMowyQUYvkuGjjT2pQgZx)
 - [Myclass](https://myclass.skillbuilder.aws/), this is where you can also have access to the course, and the place where the survey will be made available once attendance is complete
 
+## Cool repos with a lot of examples and sources
+- [Agentcore skills repo](https://github.com/aws/agent-toolkit-for-aws/tree/main/skills)
+- [AWS community MCP servers](https://github.com/awslabs/mcp)
+- [AWS Knowledge MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-knowledge-mcp-server)
+- [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
+- [MCP Proxy for AWS](https://github.com/aws/mcp-proxy-for-aws), to be used when you want to connect to MCP servers that expect IAM authentication instead of OAuth
+- [Agentcore samples](https://github.com/awslabs/agentcore-samples), AWS oficial repo **full with samples** covering individual components as well as all the end-to-end approaches
+
 ## Class links
 - [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 - [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
@@ -33,11 +41,11 @@
 - [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/)
 - [Built-in strategies for long-term memory extraction in agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
 - [Strands hooks](https://strandsagents.com/docs/api/python/strands.hooks.events/)
-- [AWS community MCP servers](https://github.com/awslabs/mcp)
-- [AWS Knowledge MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-knowledge-mcp-server)
 - [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
-- [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
-- [MCP Proxy for AWS](https://github.com/aws/mcp-proxy-for-aws), to be used when you want to connect to MCP servers that expect IAM authentication instead of OAuth
 - [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
 - [Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows](https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/)
 - [Understanding Cedar policies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html)
+- [AgentCore Custom Evaluators](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/custom-evaluators.html), where you can create your own prompts for the metrics that are not available by default within evaluations
+- [Built-in Prompt templates for Agentecore evaluation metrics](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
+- [Get started with AgentCore Observability](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-get-started.html#enabling-observability-runtime-hosted), notice how easy it is to set it up. Most importantly, by using the AgentCore CLI, telemetry is produced by default
+- [Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/), announcement of harnesses
