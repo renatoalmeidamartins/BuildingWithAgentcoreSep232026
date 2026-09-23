@@ -31,3 +31,5 @@
     - [Agentcore CLI](https://github.com/aws/agentcore-cli)
     - **DEPRECATED**[Agentcore starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
 - [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/)
+- [Built-in strategies for long-term memory extraction in agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
+- [Strands hooks](https://strandsagents.com/docs/api/python/strands.hooks.events/)
