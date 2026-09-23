@@ -33,3 +33,11 @@
 - [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/)
 - [Built-in strategies for long-term memory extraction in agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
 - [Strands hooks](https://strandsagents.com/docs/api/python/strands.hooks.events/)
+- [AWS community MCP servers](https://github.com/awslabs/mcp)
+- [AWS Knowledge MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-knowledge-mcp-server)
+- [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+- [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
+- [MCP Proxy for AWS](https://github.com/aws/mcp-proxy-for-aws), to be used when you want to connect to MCP servers that expect IAM authentication instead of OAuth
+- [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- [Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows](https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/)
+- [Understanding Cedar policies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html)
